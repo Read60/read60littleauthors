@@ -17,6 +17,41 @@ textarea {
     max-width: 280px;
 }
 
+/* Document */
+
+#Canvas {
+   
+}
+
+#Document {
+
+    width:33vw;
+    height:51vw;
+    border:1px solid black;
+    margin-left: auto;
+    
+}
+
+h1.booktitle {
+    text-align: center;
+}
+
+img.bookimage {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    margin-bottom: 3em;
+
+}
+
+h2.bookauthor {
+    text-align: center;
+}
+
+
+
 /* Carousel */
 .carousel-caption {
     z-index: 10 !important;
